@@ -10,12 +10,9 @@ ul {display: flex;
 a {color: black;
 text-decoration: none;
 }
-img {width: 150px;
-      height: 150px;
-      border-radius: 50%;
-      border: 5px solid hsl(264, 100%, 59%);
+
      
-}
+
 .center
  {
 text-align: center;
